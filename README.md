@@ -3,7 +3,7 @@
 ![그림1](https://user-images.githubusercontent.com/55977034/106613770-e7583f80-65ad-11eb-9e2b-c2b303a630ef.png)
 
 - 안드로이드 환경에서 작동하는 로그라이트 3D 모바일 RPG
-- 본 리포지토리엔 소스코드만 존재하며, 실제 작업한 브랜치엔 저작권이 존재하는 에셋이 다수 존재함으로 Private으로 돌려두었습니다.
+- 본 리포지토리엔 소스코드만이 존재하며, 실제 작업한 리포지토리는 저작권이 있는 에셋이 다수 포함되있기에 Private으로 돌려두었습니다.
 - Playstore: https://play.google.com/store/apps/details?id=com.SadPartners.ThePawn
 
 ##  요약
