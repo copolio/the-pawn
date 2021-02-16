@@ -20,6 +20,7 @@
 - Unity 2019.4.16f1 (LTS)
 - Visual Studio 2017
 - Universal Rendering Pipeline
+- Cinemachine
 
 ## 설치방법
 ---
